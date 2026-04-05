@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Rishab Saini  <br><br>Data Analyst | Turning Data into Insights | Lifelong Learner  <br><br>I’m a Data Analyst with a curiosity-driven mindset, focused on transforming raw data into meaningful and actionable insights. I work with Excel, SQL, Python, and Power BI to clean, analyze, and visualize data.<br><br>I enjoy uncovering patterns, solving problems, and building dashboards that support better decision-making. I’m always learning, improving my skills, and looking for opportunities to apply data to real-world challenges.<br><br>💡 What I do:<br>- Data Cleaning & Preparation  <br>- Exploratory Data Analysis (EDA)  <br>- Data Visualization & Dashboards  <br>- Trend Analysis & Insights Generation  <br><br>🛠️ Tools & Technologies:<br>Excel | SQL | Python | Power BI  <br><br>🤝 Let’s Connect:<br>LinkedIn: https://www.linkedin.com/in/rishab-saini-aa2459260  <br>Email: rishabsaini055@gmail.com<br><br>⭐️ "Turning data into meaningful insights."
 
-<!--
-**krispyrooster/krispyrooster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishab-saini-aa2459260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabsaini055@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krispyrooster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krispyrooster&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krispyrooster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=krispyrooster&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
