@@ -2,7 +2,6 @@
 Data Analyst | Turning Data into Insights  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krispyrooster&color=blue) 
-
 <br> I’m a Data Analyst with a curiosity-driven mindset, focused on transforming raw data into meaningful and actionable insights. I work with Excel, SQL, Python, and Power BI to clean, analyze, and visualize data.<br><br>I enjoy uncovering patterns, solving problems, and building dashboards that support better decision-making. I’m always learning, improving my skills, and looking for opportunities to apply data to real-world challenges.<br><br>💡 What I do:<br>- Data Cleaning & Preparation  <br>- Exploratory Data Analysis (EDA)  <br>- Data Visualization & Dashboards  <br>- Trend Analysis & Insights Generation  <br><br>🛠️ Tools & Technologies:<br>Excel | SQL | Python | Power BI  <br><br>🤝 Let’s Connect:<br>LinkedIn: https://www.linkedin.com/in/rishab-saini-aa2459260  <br>Email: rishabsaini055@gmail.com<br>
 
 ---
