@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Rishab Saini
-### Data Analyst | Turning Data into Insights  
+Data Analyst | Turning Data into Insights  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krispyrooster&color=blue) 
 
